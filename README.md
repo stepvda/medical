@@ -13,7 +13,8 @@ This file contains:
 - MRI scans of my brain (2x)  
 - CT scan of my head (3x)  
 - X-ray of my chest (2x)  
-- Psychological testing and journals (3x). 
+- Psychological testing and journals (3x).
+- EEG reports as well as an EEG recording in EDF file format (from a 24h EEG exam)
 
 These are normally private files with confidential information.  
 I'm sharing this with the world in good faith.  
